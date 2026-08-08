@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariom Anand</h1>
-<h3 align="center">A passionate developer.,e.g Web developer,Deginer.I love creating anf desigining Web application that solve real world problem, let's connect and work together!.</h3>
+<h3 align="center">A passionate developer.,e.g Web developer,Deginer.I love creating and desigining Web application that solve real world problem, let's connect and work together!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom9006&label=Profile%20views&color=0e75b6&style=flat" alt="hariom9006" /> </p>
 
